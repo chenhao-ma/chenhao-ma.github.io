@@ -35,6 +35,12 @@ His research interests mainly focus on large-scale data management and data mini
 ~~~
 {In the Year of 2024}
 
+. *Scalable Algorithm for Finding Balanced Subgraphs with Tolerance in Signed Networks*\n
+Jingbang Chen, Qiuyang Mang, Hangrui Zhou, Richard Peng, Yu Gao, *Chenhao Ma\**\n
+In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024/.\n
+. *Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation*\n
+Ge Qu, Jinyang Li, Bowen Li, Bowen Qin, Nan Huo, *Chenhao Ma*, Reynold Cheng\n
+In /Annual Meeting of the Association for Computational Linguistics (ACL), Findings, 2024/.\n
 . *Efficient and Effective Algorithms for Densest Subgraph Discovery and Maintenance.*\n
 Yichen Xu, *Chenhao Ma\**, Yixiang Fang, Zhifeng Bao \n
 In /The VLDB Journal, 2024/.\n
@@ -184,6 +190,7 @@ Information Processing and Management (IPM) \n
 Expert Systems With Applications (ESWA) \n
 ACM Transactions Management Information Systems (TMIS) \n
 IEEE Transactions on Computational Social Systems (TCSS) \n
+International Journal of Intelligent Systems \n
 Journal of Graph Theory \n
 BMC Medical Informatics and Decision Making \n
 Applied Sciences \n
