@@ -14,7 +14,7 @@ machenhao (at) cuhk.edu.cn\n
 
 == *Bio*
 
-Dr. Chenhao Ma is an Assistant Professor at the Chinese University of Hong Kong, Shenzhen. Prior to that, he was a Postdoctoral Fellow at the University of Hong Kong, working with Prof. [https://www.reynold.hku.hk/ Reynold Cheng]. He received his PhD degree from Department of Computer Science in the University of Hong Kong (HKU) in 2021. He once was a visiting student in the University of New South Wales (UNSW) in 2019. Till now, he has published more than 20 papers in the areas of database and data mining, including /one of four *Best of SIGMOD2020*/ (a world flagship conference in database areas, 4\/458), and most of them were published in top-tier conferences and journals (e.g., SIGMOD, PVLDB, and TODS). He was awarded the /*ACM SIGMOD Research Highlight Award 2021*/. He has served as PC members and reviewers for several top conferences and journals (e.g., VLDB, KDD, WWW, CIKM, TKDE, and VLDBJ).
+Dr. Chenhao Ma is an Assistant Professor at the Chinese University of Hong Kong, Shenzhen. Prior to that, he was a Postdoctoral Fellow at the University of Hong Kong, working with Prof. [https://www.reynold.hku.hk/ Reynold Cheng]. He received his PhD degree from Department of Computer Science in the University of Hong Kong (HKU) in 2021. He once was a visiting student in the University of New South Wales (UNSW) in 2019. Till now, he has published more than 30 papers in the areas of database and data mining, including /one of four *Best of SIGMOD2020*/ (a world flagship conference in database areas, 4\/458), and most of them were published in top-tier conferences and journals (e.g., SIGMOD, PVLDB, and TODS). He was awarded the /*ACM SIGMOD Research Highlight Award 2021*/. He has served as PC members and reviewers for several top conferences and journals (e.g., VLDB, KDD, WWW, CIKM, TKDE, and VLDBJ).
 
 == *News* 
  - I am looking for highly self-motivated PhD/MPhil students, PostDocs, and research assistants. If you are interested in working with me, please feel free to drop me an email. Please check the *[https://chenhao-ma.github.io/recruit.html position info]*.
@@ -28,6 +28,7 @@ Dr. Chenhao Ma is an Assistant Professor at the Chinese University of Hong Kong,
 His research interests mainly focus on large-scale data management and data mining, particularly graph data management and traffic data mining.
 - Graph data management: dense subgraph search, motif analysis, convex optimization, GNN.
 - Traffic data mining: trajectory outlier detection, traffic network weight completion.
+- AI4DB: text2sql, dataset search.
 
 == *Publications* 
 \* indicates Chenhao is a corresponding author
@@ -41,6 +42,9 @@ In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024/.\n
 . *Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation*\n
 Ge Qu, Jinyang Li, Bowen Li, Bowen Qin, Nan Huo, *Chenhao Ma*, Reynold Cheng\n
 In /Annual Meeting of the Association for Computational Linguistics (ACL), Findings, 2024/.\n
+. *FDM: Effective and Efficient Incident Detection on Sparse Trajectory Data*\n
+Xiaolin Han, Tobias Grubenmann, *Chenhao Ma\**, Xiaodong Li, Wenya Sun, Sze Chun Wong, Xuequn Shang, Reynold Cheng \n
+In /Information Systems, 2024/. \n
 . *Efficient and Effective Algorithms for Densest Subgraph Discovery and Maintenance.*\n
 Yichen Xu, *Chenhao Ma\**, Yixiang Fang, Zhifeng Bao \n
 In /The VLDB Journal, 2024/.\n
