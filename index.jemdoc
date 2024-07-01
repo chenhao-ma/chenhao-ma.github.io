@@ -90,7 +90,7 @@ In /Proceedings of the VLDB Endowment (PVLDB), 17, 2023/. \n
 . *Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs* \n
 Jinyang Li, Binyuan Hui, GE QU, Binhua Li, Jiaxi Yang, Bowen Li, Bailin Wang, Bowen Qin, Ruiying Geng, Nan Huo, Xuanhe Zhou, *Chenhao Ma*, Guoliang Li, Kevin Chang, Fei Huang, Reynold Cheng, Yongbin Li \n
 In /NeurIPS, Datasets and Benchmarks Track, Spotlight, 2023/. \n
-[papers/NeurIPS23bird.pdf Paper]
+[papers/NeurIPS23bird.pdf Paper] | [slides/BIRD-nl2sql.pdf Slides]
 . *Efficient and Effective Algorithms for Generalized Densest Subgraph Discovery* \n
 Yichen Xu, *Chenhao Ma\**, Yixiang Fang, Zhifeng Bao \n
 In /Proceedings of the 2023 ACM SIGMOD International Conference on Management of Data (SIGMOD), 2023/.\n
