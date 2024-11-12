@@ -1,3 +1,4 @@
+# jemdoc: menu{MENU}{recruit.html}
 = 招收2025Spring/Fall硕博士生和研究助理
 
 ~~~
@@ -8,14 +9,15 @@
 ~~~
 
 == 课题组简介
- - 马晨昊，香港中文大学（深圳）助理教授。他于2017年获得山东大学工学学士学位，2021年获得香港大学博士学位。他曾于2019年作为访问学者在新南威尔士大学学习。 他已在数据库和数据挖掘领域发表论文30余篇，其中大部分发表在顶级会议和期刊（例如SIGMOD、PVLDB、ICDE 和 TODS）。其中一项代表性研究成果的论文被评为SIGMOD 2020会议的最佳论文之一（~4/458），并荣获2021 ACM SIGMOD Research Highlight Award。他曾担任多个顶级期刊（如 TKDE 和 VLDBJ）的审稿人。
- - 主要研究方向为大规模数据管理和数据挖掘，尤其是图数据管理和交通数据挖掘。
-	-- 图数据管理：密集子图搜索、社区检索、凸优化、图神经网络。
+ - 马晨昊，香港中文大学（深圳）助理教授。他于2017年获得山东大学工学学士学位，2021年获得香港大学博士学位。 他已在数据库和数据挖掘领域发表论文30余篇，其中大部分发表在顶级会议和期刊（例如SIGMOD、PVLDB、ICDE 和 TODS）。其中一项代表性研究成果的论文被评为SIGMOD 2020会议的最佳论文之一（~4/458），并荣获2021 ACM SIGMOD Research Highlight Award。他曾担任多个顶级会议及期刊（如 VLDB、ICDE、WWW、KDD、NeurIPS、TKDE 和 VLDBJ）的PC member和审稿人。
+ - 主要研究方向为大规模数据管理和数据挖掘：
+	-- 图计算与图学习：密集子图搜索、社区检索、凸优化、图神经网络、（最短）路径计算。
 	-- 交通数据挖掘：轨迹异常检测、交通网络权重补全。
- 
- - 目前指导的本科生已发表SIGMOD、WWW等顶会论文，拿到UC Berkeley等学校offer。
- 	-- 徐亦宸，generalized densest subgraph, SIGMOD2023, 去向: PhD at UC Berkeley
- 	-- 庞嘉扬，quasi-clique, WWW2024, 去向：Master at UC San Diego
+	-- AI+DB: text2sql、dataset search。
+
+ - 目前指导的已毕业学生去向。
+ 	-- 徐亦宸, UG, generalized densest subgraph, SIGMOD2023, 去向: PhD at UC Berkeley
+ 	-- 庞嘉扬, UG, quasi-clique, WWW2024, 去向：Master at UC San Diego
 
 == 博士/硕士招生
 ~~~

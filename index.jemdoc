@@ -1,4 +1,4 @@
-# jemdoc: showsource
+# jemdoc: menu{MENU}{index.html}
 = Chenhao Ma
 
 ~~~
@@ -220,6 +220,7 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE) \n
 The International Journal on Very Large Data Bases (VLDBJ) \n
 ACM Transactions on the Web (TWEB) \n
 Pattern Recognition (PR) \n
+Knowledge and Information Systems (KAIS) \n
 Information Sciences \n
 Information Processing and Management (IPM) \n
 Expert Systems With Applications (ESWA) \n
