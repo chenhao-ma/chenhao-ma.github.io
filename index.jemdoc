@@ -40,51 +40,66 @@ His research interests mainly focus on large-scale data management and data mini
 . *Effective Job-market Mobility Prediction with Attentive Heterogeneous Knowledge Learning and Synergy*\n
 Sida Lin, Zhouyi Zhang, Yankai Chen, *Chenhao Ma\**, Yixiang Fang, Shan Dai and Guangli Lu\n
 In /The Conference on Information and Knowledge Management (CIKM), Short, 2024/. \n
+[papers/CIKM24jobpred.pdf Paper]
 . *Towards Effective Top-N Hamming Search via Bipartite Graph Contrastive Hashing*\n
 Yankai Chen, Yixiang Fang, Yifei Zhang, *Chenhao Ma*, Yang Hong, Irwin King. \n
 In /IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024/. \n
+[papers/TKDE24hammingBG.pdf Paper]
 . *Efficient Maximal Motif-Clique Enumeration over Large Heterogeneous Information Networks*\n
 Yingli Zhou, Yixiang Fang, *Chenhao Ma*, Tianci Hou, Xin Huang\n
 In /Proceedings of the VLDB Endowment (PVLDB), 2024/.\n
+[papers/VLDB24motifclique.pdf Paper]
 . *Scalable Algorithm for Finding Balanced Subgraphs with Tolerance in Signed Networks*\n
 Jingbang Chen, Qiuyang Mang, Hangrui Zhou, Richard Peng, Yu Gao, *Chenhao Ma\**\n
 In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024/.\n
+[papers/KDD24mbs.pdf Paper]
 . *Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation*\n
 Ge Qu, Jinyang Li, Bowen Li, Bowen Qin, Nan Huo, *Chenhao Ma*, Reynold Cheng\n
 In /Annual Meeting of the Association for Computational Linguistics (ACL), Findings, 2024/.\n
+[papers/ACLFindings24text2sql.pdf Paper]
 . *FDM: Effective and Efficient Incident Detection on Sparse Trajectory Data*\n
 Xiaolin Han, Tobias Grubenmann, *Chenhao Ma\**, Xiaodong Li, Wenya Sun, Sze Chun Wong, Xuequn Shang, Reynold Cheng \n
 In /Information Systems, 2024/. \n
+[papers/IS24FDM.pdf Paper]
 . *TRoute: Dynamic Time-dependent Route Recommendation on Road Networks* \n
 Xiaolin Han, Xiurui Hu, Chenhao Ma, Xuequn Shang. \n
 In /21th International Conference on Web Information Systems and Applications (WISA), 2024/.
 . *Efficient and Effective Algorithms for Densest Subgraph Discovery and Maintenance.*\n
 Yichen Xu, *Chenhao Ma\**, Yixiang Fang, Zhifeng Bao \n
 In /The VLDB Journal, 2024/.\n
+[papers/VLDBJ24gds.pdf Paper]
 . *Distributed Shortest Distance Labeling on Large-Scale Graphs.*\n
 Yuanyuan Zeng, *Chenhao Ma\**, Yixiang Fang \n
 In /Proceedings of the VLDB Endowment (PVLDB), 17, 2024/. \n
+[papers/VLDB24distSPD.pdf Paper]
 . *Efficient Core Decomposition over Large Heterogeneous Information Networks* \n
 Yucan Guo, *Chenhao Ma\**, Yixiang Fang \n
 In /IEEE International Conference on Data Engineering (ICDE), 2024/.\n
+[papers/ICDE24kpcore.pdf Paper]
 . *A Counting-based Approach for Efficient 𝑘-Clique Densest Subgraph Discovery* \n
 Yingli Zhou, Qingshuo Guo, Yixiang Fang, *Chenhao Ma* \n
 In /Proceedings of the 2024 ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024/.\n
+[papers/SIGMOD24CDS.pdf Paper]
 . *On Efficient Large Sparse Matrix Chain Multiplication* \n
 Chunxu Lin, Wensheng Luo, Yixiang Fang, *Chenhao Ma*, Xilin Liu, Yuchi Ma \n
 In /Proceedings of the 2024 ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024/.\n
+[papers/SIGMOD24matrix.pdf Paper]
 . *A Similarity-based Approach for Efficient Large Quasi-clique Detection* \n
 Jiayang Pang, *Chenhao Ma\**, Yixiang Fang \n
 In /ACM TheWebConf 2024 Conference (WWW), 2024/.\n
+[papers/WWW24quasiclique.pdf Paper]
 . *Efficient Distributed Hop-Constrained Path Enumeration on Large-Scale Graphs* \n
 Yuanyuan Zeng, Yixiang Fang, *Chenhao Ma\**, Xu Zhou, Kenli Li \n
 In /Proceedings of the 2024 ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024/.\n
+[papers/SIGMOD24pathenum.pdf Paper]
 . *Influential Exemplar Replay for Incremental Learning in Recommender Systems* \n
 Xinni Zhang, Yankai Chen, *Chenhao Ma*, Yixiang Fang, Irwin King\n
 In /AAAI Conference on Artificial Intelligence (AAAI), 2024/. \n
+[papers/AAAI24influential.pdf Paper]
 . *Accelerating Directed Densest Subgraph Queries with Software and Hardware Approaches* \n
 *Chenhao Ma*, Yixiang Fang, Reynold Cheng, Laks. V.S. Lakshmanan, Xiaolin Han, Xiaodong Li \n
 In /The VLDB Journal (VLDBJ), 33(1): 207-230, 2024/. \n
+[papers/VLDBJ24ddsgpu.pdf Paper]
 ~~~
 
 ~~~
