@@ -14,7 +14,7 @@ machenhao (at) cuhk.edu.cn\n
 
 == *Bio*
 
-Dr. Chenhao Ma is an Assistant Professor at the Chinese University of Hong Kong, Shenzhen. Prior to that, he was a Postdoctoral Fellow at the University of Hong Kong. He received his PhD degree from Department of Computer Science in the University of Hong Kong (HKU) in 2021. He once was a visiting student in the University of New South Wales (UNSW) in 2019. Till now, he has published more than 30 papers in the areas of database and data mining, including /one of four *Best of SIGMOD2020*/ (a world flagship conference in database areas, 4\/458), and most of them were published in top-tier conferences and journals (e.g., SIGMOD, PVLDB, and TODS). He was awarded the /*ACM SIGMOD Research Highlight Award 2021*/. He has served as PC members and reviewers for several top conferences and journals (e.g., VLDB, KDD, WWW, CIKM, TKDE, and VLDBJ).
+Dr. Chenhao Ma is an Assistant Professor at the Chinese University of Hong Kong, Shenzhen. Prior to that, he was a Postdoctoral Fellow at the University of Hong Kong. He received his PhD degree from Department of Computer Science in the University of Hong Kong (HKU) in 2021. He once was a visiting student in the University of New South Wales (UNSW) in 2019. Till now, he has published more than 40 papers in the areas of database and data mining, including /one of four *Best of SIGMOD2020*/ (a world flagship conference in database areas, 4\/458), and most of them were published in top-tier conferences and journals (e.g., SIGMOD, PVLDB, and TODS). He was awarded the /*ACM SIGMOD Research Highlight Award 2021*/. He has served as PC members and reviewers for several top conferences and journals (e.g., VLDB, KDD, WWW, CIKM, TKDE, and VLDBJ).
 
 == *News* 
  - I am looking for highly self-motivated PhD/MPhil students, PostDocs, and research assistants. If you are interested in working with me, please feel free to drop me an email. Please check the *[https://chenhao-ma.github.io/recruit.html position info]*.
@@ -32,6 +32,34 @@ His research interests mainly focus on large-scale data management and data mini
 
 == *Publications* 
 \* indicates Chenhao is a corresponding author
+
+~~~
+{In the Year of 2025}
+. *Accelerating Skyline Path Enumeration with a Core Attribute Index on Multi-attribute Graphs.* \n
+Yuanyuan Zeng, Yixiang Fang, Wensheng Luo, *Chenhao Ma\**. \n
+In /ACM International Conference on Management of Data (SIGMOD), 2025./ \n
+. *In-depth Analysis of Densest Subgraph Discovery in a Unified Framework.*\n
+Yingli Zhou, Qingshuo Guo, Yi Yang, Yixiang Fang, *Chenhao Ma\**, Laks V.S. Lakshmanan\n
+In /Proceedings of the VLDB Endowment (PVLDB), 18, 2025/. \n
+. *Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index.* \n
+Qiuyang Mang, Jingbang Chen, Hangrui Zhou, Yu Gao, Yingli Zhou, Qingyu Shi, Richard Peng, Yixiang Fang, *Chenhao Ma\**. \n
+In /Proceedings of the VLDB Endowment (PVLDB), 2025./ \n
+. *CSPO: Cross-Market Synergistic Stock Price Movement Forecasting with Pseudo-volatility Optimization.* \n
+Sida Lin, Yankai Chen, Yiyan Qi, *Chenhao Ma\**, Bokai Cao, Yifei Zhang, Xue Liu and Jian Guo.  \n
+In /The Web Conference (WWW), Industry-track, 2025./ \n 
+. *TRACE: Intra-visit Clinical Event Nowcasting via Effective Patient Trajectory Encoding.* \n
+Yuyang Liang, Yankai Chen, Yixiang Fang, Laks. V.S. Lakshmanan, *Chenhao Ma\**. \n
+In /The Web Conference (WWW), Short, 2025./ \n
+. *ReadGraph: Relational Evolution Enhanced Anomaly Detection in Dynamic Heterogeneous Graph.* \n
+Xiaolin Han, Xiurui Hu, *Chenhao Ma*, Xuequn Shang. \n
+In /The Web Conference (WWW), Short, 2025/.  \n
+. *RADIO: Effective and Efficient Anomalous Subgraph Discovery in Financial Networks.* \n
+Xiaolin Han, Yikun Zhang, *Chenhao Ma*, Lingyun Song, Xuequn Shang. \n
+In /The 30th International Conference on Database Systems for Advanced Applications (DASFAA), 2025./ \n
+. *STAR: Spatio-Temporal Trajectory Recovery for Sparse and Uncertain Marine Trajectories.* \n
+Xiaolin Han, Songliang Bai, Gaukhar ISSAYEVA, *Chenhao Ma*, Fang Li, Xuequn Shang. \n
+In /The 30th International Conference on Database Systems for Advanced Applications (DASFAA), Demo, 2025./ \n
+~~~
 
 ~~~
 {In the Year of 2024}
@@ -206,7 +234,7 @@ In /Proceedings of the VLDB Endowment (PVLDB), 13(2): 155-168, 2019/.\n
 == *Professional Services*
 - Conference PC Members (or Reviewers):\n
 VLDB: 2025\n
-KDD: 2024, 2025\n
+KDD: 2024, 2025 (Outstanding Reviewer)\n
 ICDE: 2025\n
 The Web Conference (WWW): 2024, 2025\n
 IEEE ICDE TKDE poster track: 2023\n
@@ -223,8 +251,8 @@ APWeb-WAIM: 2024\n
 International Conference on Data Storage and Data Engineering: 2023\n
 
 - Conference organizer:\n
-Session chair, IEEE International Conference on Data Engineering (ICDE): 2023\n
-Session chair, International Conference on Very Large Data Bases (VLDB): 2023\n
+Session chair, IEEE International Conference on Data Engineering (ICDE): 2023, 2024\n
+Session chair, International Conference on Very Large Data Bases (VLDB): 2023, 2024\n
 
 - Journal Editorship:\n
 [https://www.mdpi.com/journal/applsci/special_issues/YRGOCCQ2FM Guest Editor], Applied Sciences, 2023 \n
@@ -249,6 +277,7 @@ Sustainability \n
 Big Data and Cognitive Computing \n
 
 == *Selected Honors and Awards*
+- Presidential Young Fellow at CUHK-Shenzhen, Aug 2023\n
 - 2021 ACM SIGMOD Research Highlight Award, Jun 2021\n
 - Hong Kong and China Gas Company Limited Postgradaute Scholarship, 2019-2020\n
 - One of four *Best of SIGMOD 2020*\n
@@ -265,6 +294,8 @@ Big Data and Cognitive Computing \n
 - 2013.9-2017.7: B.Eng., Shandong University, China
 
 == *Teaching Experience*
+- CSC6124: Graph Computing, Instructor
+	-- 2025 Spring
 - CSC3170: Database System, Instructor
 	-- 2024 Fall
 - CSC2003: Introduction to Java Programming, Instructor
