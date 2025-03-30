@@ -18,17 +18,16 @@ Dr. Chenhao Ma is an Assistant Professor at the Chinese University of Hong Kong,
 
 == *News* 
  - I am looking for highly self-motivated PhD/MPhil students, PostDocs, and research assistants. If you are interested in working with me, please feel free to drop me an email. Please check the *[https://chenhao-ma.github.io/recruit.html position info]*.
- - Applied Sciences Call for paper: [https://www.mdpi.com/journal/applsci/special_issues/YRGOCCQ2FM Big Data Applications in Transportation]
-
 
 
 
 == *Interests*
 
 His research interests mainly focus on large-scale data management and data mining:
-- Graph data management: dense subgraph search, motif analysis, convex optimization, GNN.
-- Traffic data mining: trajectory outlier detection, traffic network weight completion.
-- AI4DB: text2sql, dataset search.
+- Graph data analytics: dense subgraph discovery/search, (shortest) path query, motif analysis and graphlet counting, graph learning.
+- AI/LLM+DB: text2sql, dataset search, vector search.
+- Traffic data mining: trajectory outlier detection, traffic trajectory search.
+
 
 == *Publications* 
 \* indicates Chenhao is a corresponding author
@@ -36,9 +35,18 @@ His research interests mainly focus on large-scale data management and data mini
 ~~~
 {In the Year of 2025}
 
+. *Efficient Maintenance of 2-Hop Labeling Index on Dynamic Small-World Graphs.* \n
+Yuanyuan Zeng, Yixiang Fang, Kun Chen, Yangfan Li, *Chenhao Ma\**. \n
+In /Proceedings of the VLDB Endowment (PVLDB), 18, 2025/. \n
+. *SemExplorer: A User Interface for Semantic Approach to Customized Dataset Search.* \n
+Zixin Wei, Jun Han, Xiaolin Han, *Chenhao Ma**. \n
+In /ACM International Conference on Management of Data (SIGMOD), Demo, 2025./ \n
 . *Accelerating Skyline Path Enumeration with a Core Attribute Index on Multi-attribute Graphs.* \n
 Yuanyuan Zeng, Yixiang Fang, Wensheng Luo, *Chenhao Ma\**. \n
 In /ACM International Conference on Management of Data (SIGMOD), 2025./ \n
+. *Efficient Structural Clustering over Hypergraphs.* \n
+Dong Pan, Xu Zhou, Lingwei Li, Quanqing Xu, Chuanhui Yang, *Chenhao Ma\**, Kenli Li. \n
+In /IEEE International Conference on Data Engineering (ICDE), 2025./ \n
 . *In-depth Analysis of Densest Subgraph Discovery in a Unified Framework.*\n
 Yingli Zhou, Qingshuo Guo, Yi Yang, Yixiang Fang, *Chenhao Ma\**, Laks V.S. Lakshmanan\n
 In /Proceedings of the VLDB Endowment (PVLDB), 18, 2025/. \n
@@ -54,6 +62,12 @@ In /The Web Conference (WWW), Short, 2025./ \n
 . *ReadGraph: Relational Evolution Enhanced Anomaly Detection in Dynamic Heterogeneous Graph.* \n
 Xiaolin Han, Xiurui Hu, *Chenhao Ma*, Xuequn Shang. \n
 In /The Web Conference (WWW), Short, 2025/.  \n
+. *Hypergraph-Enhanced Multi-Granularity Stochastic Weight Completion in Sparse Road Networks.* \n
+Xiaolin Han, Yikun Zhang, *Chenhao Ma*, Xuequn Shang, Reynold Cheng, Tobias Grubenmann, Xiaodong Li. \n
+In /Transactions on Knowledge Discovery from Data (TKDD), 2025/. \n
+. *Similarity and Diversity: PCA-based Contribution Evaluation in Federated Learning.* \n
+Zhiheng Liu, Hongtao Lv, Xiangyu Liu, Chenhao Ma, Fan Wu, Lei Liu, Lizhen Cui. \n
+In /IEEE Internet of Things Journal, 2025./ \n 
 . *RADIO: Effective and Efficient Anomalous Subgraph Discovery in Financial Networks.* \n
 Xiaolin Han, Yikun Zhang, *Chenhao Ma*, Lingyun Song, Xuequn Shang. \n
 In /The 30th International Conference on Database Systems for Advanced Applications (DASFAA), 2025./ \n
@@ -239,10 +253,11 @@ KDD: 2024, 2025 (Outstanding Reviewer)\n
 ICDE: 2025\n
 The Web Conference (WWW): 2024, 2025\n
 IEEE ICDE TKDE poster track: 2023\n
-SIGIR Resource paper track: 2023, 2024\n
+ICML: 2025\n
+SIGIR Resource paper track: 2023, 2024, 2025\n
 NeurIPS Dataset & Benchmark track: 2023, 2024\n
-ACM CIKM: 2022, 2023, 2024 (SPC), \n
-IEEE Big Data: 2024\n
+ACM CIKM: 2022, 2023, 2024 (Senior PC), 2025 (Senior PC)\n
+IEEE Big Data: 2024, 2025\n
 VLDB Phd Workshop: 2022\n
 VLDB Tutorials: 2023, 2024\n
 ACM SIGMOD Reproducibility, The Availability Committee: 2022, 2023\n
@@ -265,6 +280,7 @@ The International Journal on Very Large Data Bases (VLDBJ) \n
 ACM Transactions on the Web (TWEB) \n
 Pattern Recognition (PR) \n
 Knowledge and Information Systems (KAIS) \n
+Data Mining and Knowledge Discovery (DMKD) \n
 Information Sciences \n
 Information Processing and Management (IPM) \n
 Expert Systems With Applications (ESWA) \n
