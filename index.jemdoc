@@ -44,6 +44,9 @@ In /ACM International Conference on Management of Data (SIGMOD), Demo, 2025./ \n
 . *Accelerating Skyline Path Enumeration with a Core Attribute Index on Multi-attribute Graphs.* \n
 Yuanyuan Zeng, Yixiang Fang, Wensheng Luo, *Chenhao Ma\**. \n
 In /ACM International Conference on Management of Data (SIGMOD), 2025./ \n
+. *Are Large Language Models Ready for Multi-Turn Tabular Data Analysis?* \n
+Jinyang Li, Nan Huo, Yan Gao, Jiayi Shi, Yingxiu Zhao, Ge Qu, Bowen Qin, Yurong Wu, Xiaodong Li, *Chenhao Ma\**, Jian-Guang Lou, Reynold Cheng. \n 
+In /International Conference on Machine Learning (ICML), 2025./ \n 
 . *Efficient Structural Clustering over Hypergraphs.* \n
 Dong Pan, Xu Zhou, Lingwei Li, Quanqing Xu, Chuanhui Yang, *Chenhao Ma*, Kenli Li. \n
 In /IEEE International Conference on Data Engineering (ICDE), 2025./ \n
@@ -53,6 +56,9 @@ In /Proceedings of the VLDB Endowment (PVLDB), 18, 2025/. \n
 . *Efficient Historical Butterfly Counting in Large Temporal Bipartite Networks via Graph Structure-aware Index.* \n
 Qiuyang Mang, Jingbang Chen, Hangrui Zhou, Yu Gao, Yingli Zhou, Qingyu Shi, Richard Peng, Yixiang Fang, *Chenhao Ma\**. \n
 In /Proceedings of the VLDB Endowment (PVLDB), 2025./ \n
+. *UTCS: Effective Unsupervised Temporal Community Search with Pre-training of Temporal Dynamics and Subgraph Knowledge.* \n
+Yue Zhang, Yankai Chen, Yingli Zhou, Yucan Guo, Xiaolin Han, *Chenhao Ma\**. \n
+In /ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), Short, 2025./ \n
 . *CSPO: Cross-Market Synergistic Stock Price Movement Forecasting with Pseudo-volatility Optimization.* \n
 Sida Lin, Yankai Chen, Yiyan Qi, *Chenhao Ma\**, Bokai Cao, Yifei Zhang, Xue Liu and Jian Guo.  \n
 In /The Web Conference (WWW), Industry-track, 2025./ \n 
@@ -66,7 +72,7 @@ In /The Web Conference (WWW), Short, 2025/.  \n
 Xiaolin Han, Yikun Zhang, *Chenhao Ma*, Xuequn Shang, Reynold Cheng, Tobias Grubenmann, Xiaodong Li. \n
 In /Transactions on Knowledge Discovery from Data (TKDD), 2025/. \n
 . *Similarity and Diversity: PCA-based Contribution Evaluation in Federated Learning.* \n
-Zhiheng Liu, Hongtao Lv, Xiangyu Liu, Chenhao Ma, Fan Wu, Lei Liu, Lizhen Cui. \n
+Zhiheng Liu, Hongtao Lv, Xiangyu Liu, *Chenhao Ma*, Fan Wu, Lei Liu, Lizhen Cui. \n
 In /IEEE Internet of Things Journal, 2025./ \n 
 . *RADIO: Effective and Efficient Anomalous Subgraph Discovery in Financial Networks.* \n
 Xiaolin Han, Yikun Zhang, *Chenhao Ma*, Lingyun Song, Xuequn Shang. \n
