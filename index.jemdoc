@@ -35,6 +35,21 @@ His research interests mainly focus on large-scale data management and data mini
 ~~~
 {In the Year of 2025}
 
+. *MoDiff - Graph Generation with Motif-aware Diffusion Model* \n
+Yuwei Xu, *Chenhao Ma\** \n
+In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025/.\n
+. *UnG-MoCha: Neural Motif Counting in Uncertain Graphs* \n
+Lujie Ban, Xiaolin Han, Jinyang Li, *Chenhao Ma\** \n
+In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025/.\n
+. *TempASD: Temporal Anomalous Subgraph Discovery in Large-Scale Dynamic Financial Networks* \n
+Xiaolin Han, YikunZhang, *Chenhao Ma\**, Lingyun Song, Reynold Cheng, Xuequn Shang. \n
+In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025/.\n
+. *Micro-Act: Mitigate Knowledge Conflict in Question Answering via Actionable Self-Reasoning* \n
+Nan Huo, Jinyang Li, Bowen Qin, Ge Qu, Xiaolong Li, Xiaodong Li, *Chenhao Ma*, Reynold Cheng. \n
+In /Annual Meeting of the Association for Computational Linguistics (ACL), 2025/.\n
+. *SHARE: An SLM-based Hierarchical Action CorREction Assistant for Text-to-SQL.* \n
+Ge Qu, Jinyang Li, Bowen Qin, Xiaolong Li, Nan Huo, *Chenhao Ma*, Reynold Cheng. \n
+In /Annual Meeting of the Association for Computational Linguistics (ACL), 2025/.\n
 . *Efficient Maintenance of 2-Hop Labeling Index on Dynamic Small-World Graphs.* \n
 Yuanyuan Zeng, Yixiang Fang, Kun Chen, Yangfan Li, *Chenhao Ma\**. \n
 In /Proceedings of the VLDB Endowment (PVLDB), 18, 2025/. \n
