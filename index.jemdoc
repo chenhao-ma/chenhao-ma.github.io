@@ -42,6 +42,10 @@ In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
 ~~~
 {In the Year of 2025}
 
+. *Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications*\n
+Jinyang Li, Xiaolong Li, Ge Qu, Per Jacobsson, Bowen Qin, Binyuan Hui, Shuzheng Si, Nan Huo, Xiaohan Xu, Yue Zhang, Ziwei Tang, Yuanshuai Li, Florensia Widjaja, Xintong Zhu, Feige Zhou, Yongfeng Huang, Yannis Papakonstantinou, Fatma Ozcan, *Chenhao Ma*, Reynold Cheng\n
+In /NeurIPS, Poster, 2025/. \n
+[https://bird-critic.github.io/ BIRD-Critic]
 . *MoDiff - Graph Generation with Motif-aware Diffusion Model* \n
 Yuwei Xu, *Chenhao Ma\** \n
 In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025/.\n
@@ -203,7 +207,7 @@ In /Proceedings of the VLDB Endowment (PVLDB), 17, 2023/. \n
 . *Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs* \n
 Jinyang Li, Binyuan Hui, GE QU, Binhua Li, Jiaxi Yang, Bowen Li, Bailin Wang, Bowen Qin, Ruiying Geng, Nan Huo, Xuanhe Zhou, *Chenhao Ma*, Guoliang Li, Kevin Chang, Fei Huang, Reynold Cheng, Yongbin Li \n
 In /NeurIPS, Datasets and Benchmarks Track, Spotlight, 2023/. \n
-[papers/NeurIPS23bird.pdf Paper] | [slides/BIRD-nl2sql.pdf Slides]
+[https://bird-bench.github.io/ BIRD] | [papers/NeurIPS23bird.pdf Paper] | [slides/BIRD-nl2sql.pdf Slides]
 . *Efficient and Effective Algorithms for Generalized Densest Subgraph Discovery* \n
 Yichen Xu, *Chenhao Ma\**, Yixiang Fang, Zhifeng Bao \n
 In /Proceedings of the 2023 ACM SIGMOD International Conference on Management of Data (SIGMOD), 2023/.\n
