@@ -25,7 +25,7 @@ Dr. Chenhao Ma is an Assistant Professor at the Chinese University of Hong Kong,
 
 His research interests mainly focus on large-scale data management and data mining:
 - Graph data analytics: dense subgraph discovery/search, (shortest) path query, motif analysis and graphlet counting, graph learning.
-- AI/LLM+DB: text2sql, dataset search, vector search.
+- AI/LLM+DB: text2sql, dataset search, vector search, table reconstruction.
 - Traffic data mining: trajectory outlier detection, traffic trajectory search.
 
 
