@@ -37,6 +37,9 @@ His research interests mainly focus on large-scale data management and data mini
 . *Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study* \n
 Mocheng Li, Xiao Yan, Baotong Lu, Yue Zhang, James Cheng, *Chenhao Ma\** \n
 In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
+. *Scalable Approximate Biclique Counting over Large Bipartite Graphs* \n
+Jingbang Chen, Weinuo Li, Yingli Zhou, Hangrui Zhou, Qiuyang Mang, Can Wang, Yixiang Fang, *Chenhao Ma\**\n
+In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
 ~~~
 
 ~~~
@@ -375,7 +378,7 @@ Big Data and Cognitive Computing \n
 - CSC4008: Techniques for Data Mining, Instructor
 	-- 2023 Spring, 2023 Fall
 - CSC1003: Introduction to Computer Science and Java Programming, Instructor
-	-- 2022 Fall, 2005 Fall
+	-- 2022 Fall, 2025 Fall
 - The Age of Big Data, 2018 Spring, Teaching Assistant
 - Introduction to Database Management Systems, 2018 Fall, Teaching Assistant
 - Advanced Database Systems, 2019 Fall, Teaching Assistant
