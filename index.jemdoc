@@ -37,14 +37,19 @@ His research interests mainly focus on large-scale data management and data mini
 . *Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study* \n
 Mocheng Li, Xiao Yan, Baotong Lu, Yue Zhang, James Cheng, *Chenhao Ma\** \n
 In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
+. *Scalable Privacy-Preserving Shortest Path Distance Computation via 2-Hop Labeling in MPC* \n
+Huizhong Wang, Yuanyuan Zeng, Kun Chen, Wei Dong, *Chenhao Ma\**\n
+In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
 . *Scalable Approximate Biclique Counting over Large Bipartite Graphs* \n
 Jingbang Chen, Weinuo Li, Yingli Zhou, Hangrui Zhou, Qiuyang Mang, Can Wang, Yixiang Fang, *Chenhao Ma\**\n
 In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
+. *Hitcher: Efficient GPU-based Vector Search via Cluster-Centric Kernel and Hitch-Ride Ordering* \n
+Qihui Zhou, Changji LI, Guanxian Jiang, *Chenhao Ma*, Xiao Yan, Yu Mao, Ming-Chang Yang, James Cheng \n
+In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026/. \n
 ~~~
 
 ~~~
 {In the Year of 2025}
-
 . *Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications*\n
 Jinyang Li, Xiaolong Li, Ge Qu, Per Jacobsson, Bowen Qin, Binyuan Hui, Shuzheng Si, Nan Huo, Xiaohan Xu, Yue Zhang, Ziwei Tang, Yuanshuai Li, Florensia Widjaja, Xintong Zhu, Feige Zhou, Yongfeng Huang, Yannis Papakonstantinou, Fatma Ozcan, *Chenhao Ma*, Reynold Cheng\n
 In /NeurIPS, Poster, 2025/. \n
