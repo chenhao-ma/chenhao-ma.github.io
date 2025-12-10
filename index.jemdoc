@@ -46,6 +46,9 @@ In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
 . *Hitcher: Efficient GPU-based Vector Search via Cluster-Centric Kernel and Hitch-Ride Ordering* \n
 Qihui Zhou, Changji LI, Guanxian Jiang, *Chenhao Ma*, Xiao Yan, Yu Mao, Ming-Chang Yang, James Cheng \n
 In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026/. \n
+. *Finding Locally Densest Subgraphs: Convex Programming with Edge and Triangle Density* \n
+Yi Yang, *Chenhao Ma\**, Reynold Cheng, Laks V.S. Lakshmanan, Xiaolin Han. \n
+In /The VLDB Journal, 2026/. \n
 ~~~
 
 ~~~
