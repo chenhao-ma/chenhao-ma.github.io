@@ -122,7 +122,7 @@ Xiaolin Han, Xiurui Hu, *Chenhao Ma*, Xuequn Shang. \n
 In /The Web Conference (WWW), Short, 2025/.  \n
 [papers/WWW25readgraph.pdf Paper]
 . *STREAM: Hierarchical Dynamic Traffic Pattern Inference for Sparse Trajectory Recovery.* \n 
-Xiaolin Han, Tianwen Zhang, Yuke Li, Gaukhar ISSAYEVA, *Chenhao Ma*, Lingyun Song, and Xuequn Shang\n
+Xiaolin Han, Tianwen Zhang, Yuke Li, Gaukhar ISSAYEVA, *Chenhao Ma\**, Lingyun Song, and Xuequn Shang\n
 In /IEEE International Conference on Data Mining (ICDM) 2025/. \n
 . *Hypergraph-Enhanced Multi-Granularity Stochastic Weight Completion in Sparse Road Networks.* \n
 Xiaolin Han, Yikun Zhang, *Chenhao Ma*, Xuequn Shang, Reynold Cheng, Tobias Grubenmann, Xiaodong Li. \n
@@ -131,6 +131,9 @@ In /Transactions on Knowledge Discovery from Data (TKDD), 2025/. \n
 . *Similarity and Diversity: PCA-based Contribution Evaluation in Federated Learning.* \n
 Zhiheng Liu, Hongtao Lv, Xiangyu Liu, *Chenhao Ma*, Fan Wu, Lei Liu, Lizhen Cui. \n
 In /IEEE Internet of Things Journal, 2025./ \n 
+. *STORM: Spatio-Temporal Similar Trajectory Retrieval onNon-Uniform Maritime Data.* \n
+Xiaolin Han, Yonghao Zhou, *Chenhao Ma\**, Fang Li, Xuequn Shang \n
+In /Conference on Information and Knowledge Management (CIKM), Demo, 2025./ \n
 . *RADIO: Effective and Efficient Anomalous Subgraph Discovery in Financial Networks.* \n
 Xiaolin Han, Yikun Zhang, *Chenhao Ma*, Lingyun Song, Xuequn Shang. \n
 In /The 30th International Conference on Database Systems for Advanced Applications (DASFAA), 2025./ \n
