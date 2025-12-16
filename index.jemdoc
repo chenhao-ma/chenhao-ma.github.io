@@ -40,6 +40,9 @@ In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
 . *Scalable Privacy-Preserving Shortest Path Distance Computation via 2-Hop Labeling in MPC* \n
 Huizhong Wang, Yuanyuan Zeng, Kun Chen, Wei Dong, *Chenhao Ma\**\n
 In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
+. *Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution*\n
+In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
+Zixin Wei, Yucan Guo, Jinyang Li, Xiaolin Han, Xiaolong Jin, *Chenhao Ma\**. \n
 . *Scalable Approximate Biclique Counting over Large Bipartite Graphs* \n
 Jingbang Chen, Weinuo Li, Yingli Zhou, Hangrui Zhou, Qiuyang Mang, Can Wang, Yixiang Fang, *Chenhao Ma\**\n
 In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
@@ -314,8 +317,8 @@ In /Proceedings of the VLDB Endowment (PVLDB), 13(2): 155-168, 2019/.\n
 
 == *Professional Services*
 - Conference PC Members (or Reviewers):\n
-VLDB: 2025\n
-KDD: 2024, 2025 (Outstanding Reviewer)\n
+VLDB: 2025, 2026\n
+KDD: 2024, 2025 (Outstanding Reviewer), 2026\n
 ICDE: 2025\n
 The Web Conference (WWW): 2024, 2025\n
 IEEE ICDE TKDE poster track: 2023\n
@@ -323,6 +326,7 @@ ICML: 2025\n
 SIGIR Resource paper track: 2023, 2024, 2025\n
 NeurIPS Dataset & Benchmark track: 2023, 2024\n
 ACM CIKM: 2022, 2023, 2024 (Senior PC), 2025 (Senior PC)\n
+PAKDD: 2026 (Senior PC) \n
 IEEE Big Data: 2024, 2025\n
 VLDB Phd Workshop: 2022\n
 VLDB Tutorials: 2023, 2024\n
@@ -333,6 +337,7 @@ APWeb-WAIM: 2024\n
 International Conference on Data Storage and Data Engineering: 2023\n
 
 - Conference organizer:\n
+Web Chair, PAKDD: 2026 \n
 Session chair, IEEE International Conference on Data Engineering (ICDE): 2023, 2024\n
 Session chair, International Conference on Very Large Data Bases (VLDB): 2023, 2024\n
 
