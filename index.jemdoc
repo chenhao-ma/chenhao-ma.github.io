@@ -47,6 +47,12 @@ In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
 . *Scalable Approximate Biclique Counting over Large Bipartite Graphs* \n
 Jingbang Chen, Weinuo Li, Yingli Zhou, Hangrui Zhou, Qiuyang Mang, Can Wang, Yixiang Fang, *Chenhao Ma\**\n
 In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
+. *A Semantics-aware Approach for Graph Edit Distance Estimation over Knowledge Graphs* \n
+Yingli Zhou, Huizhong Wang, *Chenhao Ma*, Yixiang Fang. \n
+In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
+. *Mamba Hawkes Process for Event Sequence Modeling* \n
+Shan Dai, Yuyang Shen, Yuyang Liang, *Chenhao Ma\**, and Anningzhe Gao \n
+In /The Web Conference (WWW), 2026/. \n
 . *Hitcher: Efficient GPU-based Vector Search via Cluster-Centric Kernel and Hitch-Ride Ordering* \n
 Qihui Zhou, Changji LI, Guanxian Jiang, *Chenhao Ma*, Xiao Yan, Yu Mao, Ming-Chang Yang, James Cheng \n
 In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026/. \n
