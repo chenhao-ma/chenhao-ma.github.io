@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{recruit.html}
-= 招收2026Spring/Fall硕博士生和研究助理
+= 招收2026Fall硕博士生和研究助理
 
 ~~~
 {}{img_left}{CUHKSZ.jpeg}{logo}{165px}{150px}
@@ -11,9 +11,9 @@
 == 课题组简介
  - 马晨昊，香港中文大学（深圳）助理教授。他于2017年获得山东大学工学学士学位，2021年获得香港大学博士学位。 他已在数据库和数据挖掘领域发表论文30余篇，其中大部分发表在顶级会议和期刊（例如SIGMOD、PVLDB、ICDE 和 TODS）。其中一项代表性研究成果的论文被评为SIGMOD 2020会议的最佳论文之一（~4/458），并荣获2021 ACM SIGMOD Research Highlight Award。他曾担任多个顶级会议及期刊（如 VLDB、ICDE、WWW、KDD、NeurIPS、TKDE 和 VLDBJ）的PC member和审稿人。
  - 主要研究方向为大规模数据管理和数据挖掘：
-	-- 图计算与图学习：密集子图搜索、社区检索、凸优化、图神经网络、（最短）路径计算。
+	-- 图计算与图学习：social simulation with LLM、密集子图搜索、图神经网络、（最短）路径计算。
 	-- AI+DB: text2sql、dataset search、vector search、table extraction。
-	-- 交通数据挖掘：轨迹异常检测、交通网络权重补全。
+	-- 轨迹数据分析：轨迹异常检测、交通网络权重补全、EHR data analysis。
 	
  - 目前指导的已毕业学生去向。
  	-- 徐亦宸, UG, generalized densest subgraph, SIGMOD2023, 去向: PhD at UC Berkeley

@@ -41,6 +41,10 @@ In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
 . *Scalable Privacy-Preserving Shortest Path Distance Computation via 2-Hop Labeling in MPC* \n
 Huizhong Wang, Yuanyuan Zeng, Kun Chen, Wei Dong, *Chenhao Ma\**\n
 In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
+. *BIRD-Interact: Re-imagining Text-to-SQL Evaluation via Lens of Dynamic Interactions* \n
+Nan Huo, Xiaohan Xu, Jinyang Li, Per Jacobsson, Shipei Lin, Bowen Qin, Binyuan Hui, Xiaolong Li, Ge Qu, Shuzheng Si, Linheng Han, Edward Alexander, Xintong Zhu, Rui Qin, Ruihan Yu, Yiyao Jin, Feige Zhou, Weihao Zhong, Yun Chen, Hongyu Liu, *Chenhao Ma*, Fatma Ozcan, Yannis Papakonstantinou, Reynold Cheng \n
+In /International Conference on Learning Representations (ICLR), Oral, 2026/. (1-1.5%) \n
+[https://bird-critic.github.io/ BIRD-Critic]
 . *Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution*\n
 Zixin Wei, Yucan Guo, Jinyang Li, Xiaolin Han, Xiaolong Jin, *Chenhao Ma\**. \n
 In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
@@ -53,6 +57,12 @@ In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
 . *Mamba Hawkes Process for Event Sequence Modeling* \n
 Shan Dai, Yuyang Shen, Yuyang Liang, *Chenhao Ma\**, and Anningzhe Gao \n
 In /The Web Conference (WWW), 2026/. \n
+. *Robust Spatial-Temporal Similar Trajectory Search via Structure-Enhanced Domain-Invariant Learning*, \n
+Xiaolin Han, Yonghao Zhou, *Chenhao Ma\**, Lingyun Song, Xinbiao Gan, Xuequn Shang. \n
+In /IEEE International Conference on Data Engineering (ICDE), 2026/. \n
+. *Explainable Anomaly Detection in Dynamic Heterogeneous Graphs via Relation Evolution*, \n
+Xiaolin Han, Xiurui Hu, *Chenhao Ma\**, Xuequn Shang.\n
+In /IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026/. \n
 . *Hitcher: Efficient GPU-based Vector Search via Cluster-Centric Kernel and Hitch-Ride Ordering* \n
 Qihui Zhou, Changji LI, Guanxian Jiang, *Chenhao Ma*, Xiao Yan, Yu Mao, Ming-Chang Yang, James Cheng \n
 In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026/. \n
@@ -67,7 +77,7 @@ In /The VLDB Journal, 2026/. \n
 . *SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications*\n
 Jinyang Li, Xiaolong Li, Ge Qu, Per Jacobsson, Bowen Qin, Binyuan Hui, Shuzheng Si, Nan Huo, Xiaohan Xu, Yue Zhang, Ziwei Tang, Yuanshuai Li, Florensia Widjaja, Xintong Zhu, Feige Zhou, Yongfeng Huang, Yannis Papakonstantinou, Fatma Ozcan, *Chenhao Ma\**, Reynold Cheng\n
 In /NeurIPS, Poster, 2025/. \n
-[https://bird-critic.github.io/ BIRD-Critic]
+[https://bird-interact.github.io/ BIRD-Interact]
 . *MoDiff - Graph Generation with Motif-aware Diffusion Model* \n
 Yuwei Xu, *Chenhao Ma\** \n
 In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025/.\n
@@ -325,10 +335,10 @@ In /Proceedings of the VLDB Endowment (PVLDB), 13(2): 155-168, 2019/.\n
 
 == *Professional Services*
 - Conference PC Members (or Reviewers):\n
-VLDB: 2025, 2026\n
-KDD: 2024, 2025 (Outstanding Reviewer), 2026\n
+VLDB: 2025, 2026, 2027\n
+KDD: 2024, 2025 (Outstanding Reviewer), 2026 (Area Chair)\n
 ICDE: 2025\n
-The Web Conference (WWW): 2024, 2025\n
+The Web Conference (WWW): 2024, 2025, 2026\n
 IEEE ICDE TKDE poster track: 2023\n
 ICML: 2025\n
 SIGIR Resource paper track: 2023, 2024, 2025\n
