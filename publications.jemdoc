@@ -13,9 +13,9 @@ In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
 Huizhong Wang, Yuanyuan Zeng, Kun Chen, Wei Dong, *Chenhao Ma\**\n
 In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
 . *BIRD-Interact: Re-imagining Text-to-SQL Evaluation via Lens of Dynamic Interactions* \n
-Nan Huo, Xiaohan Xu, Jinyang Li, Per Jacobsson, Shipei Lin, Bowen Qin, Binyuan Hui, Xiaolong Li, Ge Qu, Shuzheng Si, Linheng Han, Edward Alexander, Xintong Zhu, Rui Qin, Ruihan Yu, Yiyao Jin, Feige Zhou, Weihao Zhong, Yun Chen, Hongyu Liu, *Chenhao Ma*, Fatma Ozcan, Yannis Papakonstantinou, Reynold Cheng \n
+Nan Huo, Xiaohan Xu, Jinyang Li, Per Jacobsson, Shipei Lin, Bowen Qin, Binyuan Hui, Xiaolong Li, Ge Qu, Shuzheng Si, Linheng Han, Edward Alexander, Xintong Zhu, Rui Qin, Ruihan Yu, Yiyao Jin, Feige Zhou, Weihao Zhong, Yun Chen, Hongyu Liu, *Chenhao Ma\**, Fatma Ozcan, Yannis Papakonstantinou, Reynold Cheng \n
 In /International Conference on Learning Representations (ICLR), Oral, 2026/. (1-1.5%) \n
-[https://bird-critic.github.io/ BIRD-Critic]
+[https://bird-interact.github.io/ BIRD-Interact]
 . *Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution*\n
 Zixin Wei, Yucan Guo, Jinyang Li, Xiaolin Han, Xiaolong Jin, *Chenhao Ma\**. \n
 In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
