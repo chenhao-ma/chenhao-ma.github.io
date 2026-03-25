@@ -1,22 +1,19 @@
-DOCS=index
+JEMDOC := ./jemdoc
+CONF := mysite.conf
+DOCS := index research team recruit publications teaching service honors
 
-HDOCS=$(addsuffix .html, $(DOCS))
-PHDOCS=$(addprefix build/, $(HDOCS))
+HDOCS := $(addsuffix .html, $(DOCS))
 
 .PHONY : docs
-docs : $(PHDOCS)
+docs : $(HDOCS)
 
 .PHONY : update
-update : $(PHDOCS)
-	@echo -n 'Copying to server...'
-	# insert code for copying to server here.
-	cp build/*.html .
-	chmod 604 *.html
-	@echo ' done.'
+update : $(HDOCS)
+	chmod 604 $(HDOCS)
 
-build/%.html : %.jemdoc MENU
-	jemdoc -o $@ $<
+%.html : %.jemdoc MENU $(CONF) $(JEMDOC)
+	$(JEMDOC) -c $(CONF) $*
 
 .PHONY : clean
 clean :
-	-rm -f build/*.html
+	@echo 'No temporary build artifacts to clean.'

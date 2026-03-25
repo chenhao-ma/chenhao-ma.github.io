@@ -1,0 +1,75 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+== Overview
+
+My research lies at the intersection of data management, data mining, and data-centric AI. I develop algorithms, systems, and AI methods for organizing, querying, and reasoning over complex data at scale. Grounded in both publications and ongoing projects, my current research spans three closely connected directions:
+
+- *Graph Data Management \& Analytics.* Scalable algorithms and systems for graph querying, dense subgraph discovery, motif analysis, shortest-path computation, and mining over dynamic and heterogeneous graphs.
+- *Data-Centric AI \& LLM Systems.* Large language models and AI-oriented data systems for structured data interaction and reasoning, including text-to-SQL, dataset search, multi-turn tabular analysis, vector search, and table understanding.
+- *Spatio-Temporal \& Sequential Data Intelligence.* Methods for trajectory mining and retrieval, event sequence modeling, clinical event analytics, and spatio-temporal learning over dynamic real-world data.
+
+These directions are connected by a common goal: *enabling intelligent, reliable, and scalable data analysis on complex structured, graph, and temporal data*. See [/publications.html Publications] for a full list of papers.
+
+== Graph Data Management \& Analytics
+
+A major part of my research focuses on scalable graph data management and graph mining. I study fundamental problems such as densest subgraph discovery, community search, motif analysis and counting, shortest-path and path querying, and graph mining over temporal, dynamic, and heterogeneous graphs. This line of work combines rigorous algorithmic design with data management concerns such as scalability, indexing, and efficient processing on modern hardware. More broadly, I am interested in building principled and practical techniques for extracting structure and insights from large graph data, while also exploring emerging graph-centered AI directions, e.g., LLM-based social network simulation.
+
+=== Representative Topics
+
+- Dense subgraph discovery, motif mining, and graph generation
+- Shortest-path computation, path querying, and graph indexing
+- Dynamic graph analytics and emerging graph-centered AI directions
+
+=== Highlights
+
+- Work on directed densest subgraph discovery was selected as one of four *Best of SIGMOD 2020* and later received the *ACM SIGMOD Research Highlight Award 2021*
+- Recent work on shortest path computation in MPC, supported by the CCF-Ant Group Research Fund on Graph Computing
+
+=== Selected Publications
+
+- *Efficient Algorithms for Densest Subgraph Discovery on Large Directed Graphs.* In /Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data (SIGMOD), 2020/. [papers/SIGMOD20dds.pdf Paper]
+- *A Convex-Programming Approach for Efficient Directed Densest Subgraph Discovery.* In /Proceedings of the 2022 ACM SIGMOD International Conference on Management of Data (SIGMOD), 2022/. [papers/SIGMOD22convex-dds.pdf Paper]
+- *Distributed Shortest Distance Labeling on Large-Scale Graphs.* In /Proceedings of the VLDB Endowment (PVLDB), 2024/. [papers/VLDB24distSPD.pdf Paper]
+- *Scalable Privacy-Preserving Shortest Path Distance Computation via 2-Hop Labeling in MPC.* In /ACM International Conference on Management of Data (SIGMOD), 2026/.
+- *MoDiff - Graph Generation with Motif-aware Diffusion Model.* In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025/. [papers/KDD25modiff.pdf Paper]
+
+== Data-Centric AI \& LLM Systems
+
+I work on data-centric AI with a particular interest in how large language models can interact with structured and semi-structured data more effectively. My research in this direction includes text-to-SQL, dataset search, semantic data interfaces, multi-turn tabular analysis, and AI-oriented data systems such as vector search. The broader goal is to bridge data systems and foundation models, so that AI can better access, reason over, and support data-intensive workflows in a reliable and efficient manner.
+
+=== Representative Topics
+
+- Text-to-SQL and LLMs for structured data interaction
+- Benchmarking, evaluation, and reliable reasoning for data-centric AI
+- Dataset search, vector search, and AI-assisted data exploration
+
+=== Highlights
+
+- [https://bird-bench.github.io/ BIRD-SQL] was featured by OpenAI in its [https://openai.com/index/gpt-4o-fine-tuning/ GPT-4o fine-tuning launch post] and recognized by [https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database Google Cloud] as an industry-standard benchmark for text-to-SQL
+- Industry-funded projects with Huawei on vector search and BPai on table extraction and understanding
+
+=== Selected Publications
+
+- *Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs.* In /NeurIPS Datasets and Benchmarks Track, Spotlight, 2023/. [https://bird-bench.github.io/ Project] | [papers/NeurIPS23bird.pdf Paper]
+- *SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications.* In /NeurIPS, 2025/. [https://bird-interact.github.io/ Project]
+- *BIRD-Interact: Re-imagining Text-to-SQL Evaluation via Lens of Dynamic Interactions.* In /International Conference on Learning Representations (ICLR), Oral, 2026/. [https://bird-interact.github.io/ Project]
+- *Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution.* In /Proceedings of the VLDB Endowment (PVLDB), 2026/.
+- *Attribute Filtering in Approximate Nearest Neighbor Search: An In-depth Experimental Study.* In /ACM International Conference on Management of Data (SIGMOD), 2026/. [papers/SIGMOD26filterANNbench.pdf Paper]
+
+== Spatio-Temporal \& Sequential Data Intelligence
+
+I also study methods for understanding data with strong temporal, spatial, and sequential structure. This includes traffic and maritime trajectory mining and retrieval, route and mobility analytics, clinical event modeling, event sequence learning, and anomaly detection over evolving real-world data. A key theme in this direction is how to model sparsity, uncertainty, and dynamics in complex data while developing methods that remain both effective and practically useful in real applications.
+
+=== Representative Topics
+
+- Trajectory mining, retrieval, and recovery
+- Spatio-temporal analytics and anomaly detection
+- Event sequence modeling in real-world domains
+
+=== Selected Publications
+
+- *DeepTEA: Effective and Efficient Online Time-dependent Trajectory Outlier Detection.* In /Proceedings of the VLDB Endowment (PVLDB), 2022/. [papers/VLDB22deeptea.pdf Paper]
+- *Robust Spatial-Temporal Similar Trajectory Search via Structure-Enhanced Domain-Invariant Learning.* In /IEEE International Conference on Data Engineering (ICDE), 2026/.
+- *TRACE: Intra-visit Clinical Event Nowcasting via Effective Patient Trajectory Encoding.* In /The Web Conference (WWW), 2025/. [papers/WWW25trace.pdf Paper]
+- *Mamba Hawkes Process for Event Sequence Modeling.* In /The Web Conference (WWW), 2026/.
