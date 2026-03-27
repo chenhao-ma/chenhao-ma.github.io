@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{recruit.html}
-= 招收2026Fall/2027Spring/Fall硕博士生和研究助理
+= 招收2026Fall\/2027Spring\/Fall硕博士生和研究助理
 
 ~~~
 {}{img_left}{CUHKSZ.jpeg}{logo}{165px}{150px}
@@ -17,10 +17,11 @@
 	-- 时空与序列数据智能：轨迹挖掘、检索与恢复，时空分析与异常检测，临床事件建模，以及真实场景中的事件序列学习。
 	
  - 目前指导的已毕业学生去向。
- 	-- 徐亦宸, UG, generalized densest subgraph, SIGMOD2023, 去向: PhD at UC Berkeley
- 	-- 庞嘉扬, UG, quasi-clique, WWW2024, 去向: Master at UC San Diego
-	-- 赵子逸, UG, 去向: Master at UIUC
-	-- 杨奕, MPhil, densest subgraph, VLDB2025, VLDBJ2026, 去向: RA at CUHK-Shenzhen
+ 	-- 徐亦宸, UG, generalized densest subgraph, SIGMOD2023, 去向: PhD at UC Berkeley 
+ 	-- 庞嘉扬, UG, quasi-clique, WWW2024, 去向: Master at UC San Diego 
+	-- 赵子逸, UG, 去向: Master at UIUC 
+	-- 杨奕, MPhil, densest subgraph, VLDB2025, VLDBJ2026, 去向: RA at CUHK-Shenzhen 
+	-- 林思达, MDS, event sequence / time series, WWW2025, CIKM2024, 去向: PhD at HKUST 
 
 == 博士/硕士招生
 ~~~
