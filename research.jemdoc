@@ -23,6 +23,7 @@ A major part of my research focuses on scalable graph data management and graph 
 
 === Highlights
 
+- Released *[https://github.com/D2I-CUHKSZ/MicroWorld MicroWorld]*, an open-source lightweight system for multi-modal event analysis, event graph construction, and graph-grounded social simulation
 - Work on directed densest subgraph discovery was selected as one of four *Best of SIGMOD 2020* and later received the *ACM SIGMOD Research Highlight Award 2021*
 - Recent work on shortest path computation in MPC, supported by the CCF-Ant Group Research Fund on Graph Computing
 
@@ -66,6 +67,10 @@ I also study methods for understanding data with strong temporal, spatial, and s
 - Trajectory mining, retrieval, and recovery
 - Spatio-temporal analytics and anomaly detection
 - Event sequence modeling in real-world domains
+
+=== Highlights
+
+- Awarded the *[https://mp.weixin.qq.com/s/3jtZw3QgOEjtQt_CgqS-IA 2026 Tencent Weixin Rhino-Bird Special Research Fund]*, supporting research on sequential data intelligence
 
 === Selected Publications
 

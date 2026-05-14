@@ -17,13 +17,15 @@ machenhao (at) cuhk.edu.cn\n
 Dr. Chenhao Ma is an Assistant Professor at the Chinese University of Hong Kong, Shenzhen. Prior to that, he was a Postdoctoral Fellow at the University of Hong Kong. He received his PhD degree from Department of Computer Science in the University of Hong Kong (HKU) in 2021, advised by [https://www.reynold.hku.hk/ Prof. Reynold Cheng]. He once was a visiting student in the University of New South Wales (UNSW) in 2019, working with [https://xueminlin.github.io/ Prof. Xuemin Lin]. Till now, he has published more than 40 papers in the areas of database and data mining, including /one of four *Best of SIGMOD2020*/ (a world flagship conference in database areas, 4\/458), and most of them were published in top-tier conferences and journals (e.g., SIGMOD, PVLDB, KDD, NeurIPS, ICML, ICLR, VLDBJ, TKDE, and TODS). He was awarded the /*ACM SIGMOD Research Highlight Award 2021*/. He has served as area chairs / PC members and reviewers for several top conferences and journals (e.g., VLDB, ICDE, KDD, WWW, CIKM, TKDE, and VLDBJ).
 
 == *News* 
+
  - I am looking for highly self-motivated PhD/MPhil students, PostDocs, and research assistants. If you are interested in working with me, please feel free to drop me an email. Please check the *[https://chenhao-ma.github.io/recruit.html position info]*.
- - Chenhao was awarded the *[https://mp.weixin.qq.com/s/3jtZw3QgOEjtQt_CgqS-IA 2026 Tencent Weixin Rhino-Bird Special Research Fund] in April 2026*.
+ - Our open-source project *[https://github.com/D2I-CUHKSZ/MicroWorld MicroWorld]*, a lightweight system for multi-modal event analysis and social simulation, is released.
+ - Chenhao was awarded the *[https://mp.weixin.qq.com/s/3jtZw3QgOEjtQt_CgqS-IA 2026 Tencent Weixin Rhino-Bird Special Research Fund]* in April 2026.
 
 == *Research Interests*
 
 My research lies at the intersection of data management, data mining, and data-centric AI, with a focus on:
-- Graph Data Management \& Analytics: dense subgraph discovery and search, shortest path and graph querying, motif analysis and counting, graph learning, and mining over dynamic and heterogeneous graphs.
+- Graph Data Management \& Analytics: dense subgraph discovery and search, shortest path and graph querying, motif analysis and counting, graph learning, mining over dynamic and heterogeneous graphs, and graph-grounded social simulation as in *[https://github.com/D2I-CUHKSZ/MicroWorld MicroWorld]*.
 - Data-Centric AI \& LLM Systems: LLMs for structured data interaction and reasoning, including text-to-SQL, dataset search, and multi-turn tabular analysis, as well as AI-oriented data systems and tools such as vector search and table reconstruction.
 - Spatio-Temporal \& Sequential Data Intelligence: traffic trajectory mining and retrieval, clinical event modeling, event sequence learning, and spatio-temporal analytics over real-world dynamic data.
 
