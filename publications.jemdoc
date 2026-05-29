@@ -37,6 +37,9 @@ In /IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026/. \n
 . *Hitcher: Efficient GPU-based Vector Search via Cluster-Centric Kernel and Hitch-Ride Ordering* \n
 Qihui Zhou, Changji LI, Guanxian Jiang, *Chenhao Ma*, Xiao Yan, Yu Mao, Ming-Chang Yang, James Cheng \n
 In /SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026/. \n
+. *TrajLM: Transferable Mobility Pattern Distillation for Unified Trajectory Learning in Sparse Road Networks* \n
+Xiaolin Han, Jianqiang Gao, Yuting Cui, *Chenhao Ma\**, Yudai Pan, Zhanhuai Li, Xuequn Shang. \n
+In /ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2026/. \n
 . *Finding Locally Densest Subgraphs: Convex Programming with Edge and Triangle Density* \n
 Yi Yang, *Chenhao Ma\**, Reynold Cheng, Laks V.S. Lakshmanan, Xiaolin Han. \n
 In /The VLDB Journal, 2026/. \n
