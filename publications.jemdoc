@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{publications.html}
 = Publications
 
-\* indicates Chenhao is a corresponding author
+\* indicates a corresponding author
 
 ~~~
 {In the Year of 2026}
@@ -44,6 +44,9 @@ In /ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ub
 Yi Yang, *Chenhao Ma\**, Reynold Cheng, Laks V.S. Lakshmanan, Xiaolin Han. \n
 In /The VLDB Journal, 2026/. \n
 [papers/VLDBJ26lds.pdf Paper]
+. *Efficiently Querying Connected Components in Large Temporal Graphs via Scalable and Maintainable Indices* \n
+Yuyang Xia, Haoxuan Xie, Yixiang Fang, Wensheng Luo, *Chenhao Ma*, Dong Wen. \n
+In /The VLDB Journal (VLDBJ), 2026/. \n
 ~~~
 
 ~~~
