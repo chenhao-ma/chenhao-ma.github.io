@@ -1,103 +1,126 @@
 # jemdoc: menu{MENU}{recruit.html}
-= 招收2026Fall\/2027Spring\/Fall硕博士生和研究助理
+= 课题组招生与招聘
 
 ~~~
 {}{img_left}{CUHKSZ.jpeg}{logo}{165px}{150px}
-- 香港中文大学（深圳）数据科学学院 马晨昊助理教授 
+- 香港中文大学（深圳）数据科学学院 马晨昊助理教授
 - Email: machenhao (at) cuhk.edu.cn \n
 - [https://chenhao-ma.github.io/ 个人主页]
 ~~~
 
+- 当前招收 *2027 Spring\/Fall PhD与MPhil学生*，并长期招聘研究助理和博士后。名额有限，滚动考虑。
+
 == 课题组简介
-- 马晨昊，香港中文大学（深圳）数据科学学院助理教授。他于2017年获得山东大学工学学士学位，2021年获得香港大学计算机科学博士学位，此后在香港大学从事博士后研究。迄今已在数据库、数据挖掘与数据中心AI等方向发表论文50余篇，大部分发表于SIGMOD、PVLDB、ICDE、KDD、NeurIPS、ICML、ICLR、TODS、VLDBJ、TKDE等顶级会议和期刊。其中，关于有向图densest subgraph discovery的工作获评 *Best of SIGMOD 2020*（4\/458），并进一步获得 *ACM SIGMOD Research Highlight Award 2021*。他曾担任VLDB、ICDE、WWW、KDD、CIKM、NeurIPS、TKDE、VLDBJ等多个顶级会议和期刊的PC member、area chair或审稿人。
+
+- 马晨昊，香港中文大学（深圳）数据科学学院助理教授。他于2017年获得山东大学工学学士学位，2021年获得香港大学计算机科学博士学位，此后在香港大学从事博士后研究。迄今已在数据库、数据挖掘与Data-Centric AI等方向发表论文50余篇，大部分发表于SIGMOD、PVLDB、ICDE、KDD、NeurIPS、ICML、ICLR、TODS、VLDBJ、TKDE等顶级会议和期刊。关于有向图densest subgraph discovery的工作获评 *Best of SIGMOD 2020*（4\/458），并进一步获得 *ACM SIGMOD Research Highlight Award 2021*。
 - 课题组关注数据管理、数据挖掘与Data-Centric AI的交叉问题，核心目标是面向复杂结构化数据、图数据与时空数据，构建智能、可靠、可扩展的数据分析方法与系统。
-- 主要研究方向包括：
-	-- 图数据管理与图挖掘：密集子图发现、motif挖掘、图生成、最短路径计算、路径查询、图索引，以及动态图与异构图分析。
-	-- Data-Centric AI 与 LLM Systems：面向结构化数据交互与推理的LLM，text-to-SQL、dataset search、多轮表格分析、vector search，以及table extraction等AI-oriented data systems。
-	-- 时空与序列数据智能：轨迹挖掘、检索与恢复，时空分析与异常检测，临床事件建模，以及真实场景中的事件序列学习。
-	
- - 目前指导的已毕业学生去向。
- 	-- 徐亦宸, UG, generalized densest subgraph, SIGMOD2023, 去向: PhD at UC Berkeley 
- 	-- 庞嘉扬, UG, quasi-clique, WWW2024, 去向: Master at UC San Diego 
-	-- 赵子逸, UG, 去向: Master at UIUC 
-	-- 杨奕, MPhil, densest subgraph, VLDB2025, VLDBJ2026, 去向: RA at CUHK-Shenzhen 
-	-- 林思达, MDS, event sequence / time series, WWW2025, CIKM2024, 去向: PhD at HKUST 
 
-== 博士/硕士招生
+== 主要研究方向
+
+- *LLM + Data / Data-Centric AI：*研究大语言模型与数据库、结构化及半结构化数据的交叉问题，包括text-to-SQL、interactive database agents、dataset search、多轮表格分析、vector search、table understanding，以及可靠性评测。代表性工作包括[https://bird-bench.github.io/ BIRD-SQL]、[https://bird-interact.github.io/ BIRD-Interact]和SWE-SQL等。
+- *图数据管理与图挖掘：*密集子图发现、motif挖掘、图生成、最短路径计算、路径查询、图索引，以及动态图与异构图分析。
+- *时空与序列数据智能：*轨迹挖掘、检索与恢复，时空分析与异常检测，临床事件建模，以及真实场景中的事件序列学习。
+
+== 研究与培养亮点
+
+- 有向图densest subgraph discovery工作入选 *Best of SIGMOD 2020*，并获得 *ACM SIGMOD Research Highlight Award 2021*。
+- BIRD-SQL已成为具有广泛影响力的text-to-SQL benchmark，并获OpenAI和Google Cloud等关注。
+- BIRD-Interact入选ICLR 2026 Oral。
+- 已指导学生前往UC Berkeley、NUS、HKUST、UC San Diego、Columbia University、UIUC等高校继续深造。
+
+== 学生培养与毕业去向
+
+以下为已毕业或离组学生的后续去向。
+
+=== 研究生
+
+- 王慧中，MPhil，前往里昂第一大学攻读PhD，导师为Prof. Angela Bonifati（ACM Fellow）
+- 杨奕，MPhil，现于香港中文大学（深圳）攻读PhD
+- 林思达，MSc，现于香港科技大学攻读PhD
+
+=== 本科生
+
+- 徐亦宸，前往University of California, Berkeley攻读PhD
+- 谢昊轩，前往National University of Singapore攻读PhD
+- 庞嘉扬，前往University of California, San Diego攻读硕士学位
+- 柳怡如，前往Columbia University攻读硕士学位
+- 赵子逸，前往University of Illinois Urbana-Champaign攻读硕士学位
+- 魏子歆，前往National University of Singapore攻读硕士学位
+
+== PhD / MPhil招生
+
 ~~~
-{要求}
+{基本要求}
 
-- 对科研有热情积极主动有钻研精神立志于获取博士学位
-- 毕业于认可的大学或研究所，有学士（或硕士）学位，就读过计算机科学、人工智能、应用数学等相关专业
-- 较强编程能力(C\+\+\/Java\/Python, 有ACM程序设计竞赛经历者将被优先考虑)较强数学分析、算法设计能力
-- 英语要求（符合以下要求之一）：在香港或者英语国家取得相当的学位或修学证明；托福（笔试不低于550分，机试不低于213分；网考不低于79分）；雅思（学术类不低于6.5分）。
+- 对科研有热情，积极主动，具备钻研精神；希望接受系统科研训练、产出高水平研究成果，计划继续攻读博士学位者优先
+- 毕业于认可的大学或研究所，具有学士或硕士学位，专业背景包括但不限于计算机科学、人工智能、数据科学、应用数学等
+- 具备扎实的编程、算法与数学基础，熟悉Python、C\+\+或Java；具有算法竞赛、科研项目、开源系统、LLM\/data system项目经验者优先
+- 英语要求（符合以下要求之一）：TOEFL 550（纸笔）或79（网考\/在家考）；IELTS Academic 6.5；或获得香港或英语为母语国家学校颁发的相关学位或专业证书。具体要求以[https://sds.cuhk.edu.cn/phd-programmes-CSE/applications 学院官网]为准
 ~~~
 
 ~~~
 {学费与奖学金}
 
-- 2026-2027学年计算机科学博士/硕士专业的学费是每年140,000元。香港中文大学（深圳）将为优秀的博士生申请人提供各类奖学金支持，包括：(1)学费豁免；(2)生活津贴(税前¥6,000-10,000/月), 申请人无需提交奖学金申请; (3) 其他奖学金。 [https://sds.cuhk.edu.cn/en/phd-programmes More info]
+- 根据学校当前公布的收费标准，2027年及以后入学的研究型硕士和博士项目学费为每年162,000元，具体以[https://www.cuhk.edu.cn/en/node/8803 学校最新收费标准]为准
+- 香港中文大学（深圳）为优秀博士生提供不同等级的奖学金支持，入学时统一评定，无需单独申请；奖学金延续需通过年度考核，获得奖学金期间需承担一定的教学助理工作。详情参见[https://sds.cuhk.edu.cn/phd-programmes-CSE/scholarships 学院学费与奖学金页面]
 ~~~
 
 ~~~
-{申请材料和时间}
+{预联系与正式申请}
 
-- 请准备好完整的中/英文简历、在读证明或学位证书（如果有多个高等学历，则都需要提供）、官方成绩单及排名、英文测试成绩、其他材料（如论文），邮件发送至machenhao (at) cuhk.edu.cn，邮件主题请标明：“姓名-毕业院校-博士生申请”。
-
-- 请尽早提交申请，招满为止。
+- 预联系请将英文简历、成绩单及排名、英文测试成绩、简短的研究兴趣说明，以及论文、项目或GitHub主页（如有）发送至machenhao (at) cuhk.edu.cn，邮件主题请标明：“姓名-毕业院校-PhD\/MPhil申请-意向方向”
+- 经初步沟通后，申请人仍需通过学校网申系统提交英文个人陈述、推荐信等正式申请材料，具体要求以[https://sds.cuhk.edu.cn/phd-programmes-CSE/applications 学院官网]为准
+- 请尽早联系和提交申请，名额有限，滚动考虑
 ~~~
 
 == 研究助理招聘
 
 ~~~
-{要求}
+{基本要求}
 
-- 对科研有热情积极主动有钻研精神
-- 毕业于或者就读于认可的大学或研究所，有学士或硕士学位，就读过计算机科学、人工智能、应用数学等相关专业
-- 较强编程能力(C\+\+\/Java\/Python, 有ACM程序设计竞赛经历者将被优先考虑)较强数学分析、算法设计能力
+- 对科研有热情，积极主动，具备钻研精神
+- 已获得或即将获得计算机科学、人工智能、数据科学、应用数学等相关专业的学士或硕士学位
+- 具备扎实的编程、算法与数学基础，熟悉Python、C\+\+或Java；具有科研项目、开源系统、LLM\/data system或算法竞赛经验者优先
 ~~~
 
 ~~~
-{待遇}
+{待遇与发展}
 
-- 关于薪酬，请邮件咨询；
-- 表现优秀的研究助理，将被优先考虑录用为博士生或根据意向推荐去海外深造。
+- 薪酬根据个人背景和工作安排面议
+- 表现优秀的研究助理，将被优先考虑录用为博士生，或根据个人意向推荐赴海外继续深造
 ~~~
 
 ~~~
-{申请材料和时间}
+{申请方式}
 
-- 请准备好意向信cover letter、完整的中/英文简历、成绩单、论文（如有）等邮件发送至machenhao (at) cuhk.edu.cn，邮件主题请标明：“姓名-毕业院校-研究助理申请”.
-
-- 请尽早提交申请，招满为止。
+- 请将求职信（cover letter）、完整的中英文简历、成绩单，以及论文、项目或GitHub主页（如有）发送至machenhao (at) cuhk.edu.cn，邮件主题请标明：“姓名-毕业院校-研究助理申请-意向方向”
+- 请尽早联系和提交申请，招满为止
 ~~~
 
 == 博士后招聘
-~~~
-{要求}
-
-- 获得计算机等相关博士学位具备大数据、数据挖掘、机器学习等科研背景
-- 对科研有热情积极主动有独立科研能力
-- 科研成果发表于相关顶级期刊或者会议如SIGMOD, VLDB, ICDE, KDD, TKDE, TODS, VLDBJ等
-- 熟练掌握英语，能撰写英文学术论文和技术报告，能以英语作为工作语言。
-~~~
 
 ~~~
-{待遇}
+{基本要求}
 
-- 香港中文大学（深圳）签订合同，享受五险一金等福利；
-- 申请享受广东省+深圳市博士后生活补助（税后21万元/年）；境外知名高校（世界排名前200名）博士毕业未满两年且年龄在35岁以下者，可同时申请广东省博士后人才引进项目（以广东省主管部门文件为准）；
-- 合作导师提供一定生活补助（具体金额以合同为准），并支持符合条件者申请各级人才计划，并享受相关待遇；
-- 可申请中国博士后科学基金以及国家省市各级科技项目；
-- 期满出站后可申请留校（深）工作并申请深圳市及龙岗区博士后留深工作的科研补助;
-- 可落户深圳市，其配偶及未成年子女可办理随迁入户
+- 已获得或即将获得计算机科学、人工智能、数据科学、应用数学等相关专业的博士学位
+- 在LLM + Data、Data-Centric AI、数据库、图数据管理、数据挖掘、时空与序列数据智能等方向具有相关研究背景
+- 对科研有热情，积极主动，具备独立开展科研和合作研究的能力
+- 在相关高水平会议或期刊发表过研究成果
+- 熟练掌握英语，能够撰写英文学术论文和技术报告，并以英语作为工作语言
 ~~~
 
 ~~~
-{申请材料和时间}
+{待遇与支持}
 
-- 请准备好意向信cover letter、完整的中/英文简历、博士学位证书、近期代表性论文(3篇)邮件发送至machenhao (at) cuhk.edu.cn，邮件主题请标明：“姓名-毕业院校-博士后申请”.
-
-- 请尽早提交申请，招满为止。
+- 与香港中文大学（深圳）签订合同，享受五险一金等福利，薪酬根据个人资历和研究成果面议
+- 符合条件者可申请省市博士后、海外博士后及出站留深等相关资助，具体金额和资格以最新政策及合同为准
+- 支持申请中国博士后科学基金及国家、省、市各级科研项目和人才计划
+- 支持参加学术会议、开展国内外学术合作，并协助符合条件者申请留校（深）工作
 ~~~
 
+~~~
+{申请方式}
+
+- 请将求职信（cover letter）、完整的中英文简历、博士学位或预计毕业证明、近期代表性论文3篇、简短研究计划及两名推荐人的联系信息发送至machenhao (at) cuhk.edu.cn，邮件主题请标明：“姓名-毕业院校-博士后申请-意向方向”
+- 请尽早联系和提交申请，招满为止
+~~~
