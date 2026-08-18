@@ -19,19 +19,24 @@ In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
 . *Scalable Privacy-Preserving Shortest Path Distance Computation via 2-Hop Labeling in MPC* \n
 Huizhong Wang, Yuanyuan Zeng, Kun Chen, Wei Dong, *Chenhao Ma\**\n
 In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
+[papers/SIGMOD26privhop.pdf Paper]
 . *BIRD-Interact: Re-imagining Text-to-SQL Evaluation via Lens of Dynamic Interactions* \n
 Nan Huo, Xiaohan Xu, Jinyang Li, Per Jacobsson, Shipei Lin, Bowen Qin, Binyuan Hui, Xiaolong Li, Ge Qu, Shuzheng Si, Linheng Han, Edward Alexander, Xintong Zhu, Rui Qin, Ruihan Yu, Yiyao Jin, Feige Zhou, Weihao Zhong, Yun Chen, Hongyu Liu, *Chenhao Ma\**, Fatma Ozcan, Yannis Papakonstantinou, Reynold Cheng \n
 In /International Conference on Learning Representations (ICLR), Oral, 2026/. (1-1.5%) \n
+[papers/ICLR26bird-interact.pdf Paper]
 [https://bird-interact.github.io/ BIRD-Interact]
 . *Revisiting Task-Oriented Dataset Search in the Era of Large Language Models: Challenges, Benchmark, and Solution*\n
 Zixin Wei, Yucan Guo, Jinyang Li, Xiaolin Han, Xiaolong Jin, *Chenhao Ma\**. \n
 In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
+[papers/VLDB26dataset-search.pdf Paper]
 . *Scalable Approximate Biclique Counting over Large Bipartite Graphs* \n
 Jingbang Chen, Weinuo Li, Yingli Zhou, Hangrui Zhou, Qiuyang Mang, Can Wang, Yixiang Fang, *Chenhao Ma\**\n
 In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
+[papers/VLDB26biclique-counting.pdf Paper]
 . *A Semantics-aware Approach for Graph Edit Distance Estimation over Knowledge Graphs* \n
 Yingli Zhou, Huizhong Wang, *Chenhao Ma*, Yixiang Fang. \n
 In /Proceedings of the VLDB Endowment (PVLDB), 19, 2026/. \n
+[papers/VLDB26seabed.pdf Paper]
 . *Mamba Hawkes Process for Event Sequence Modeling* \n
 Shan Dai, Yuyang Shen, Yuyang Liang, *Chenhao Ma\**, and Anningzhe Gao \n
 In /The Web Conference (WWW), 2026/. \n
@@ -61,6 +66,7 @@ In /The VLDB Journal (VLDBJ), 2026/. \n
 . *SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications*\n
 Jinyang Li, Xiaolong Li, Ge Qu, Per Jacobsson, Bowen Qin, Binyuan Hui, Shuzheng Si, Nan Huo, Xiaohan Xu, Yue Zhang, Ziwei Tang, Yuanshuai Li, Florensia Widjaja, Xintong Zhu, Feige Zhou, Yongfeng Huang, Yannis Papakonstantinou, Fatma Ozcan, *Chenhao Ma\**, Reynold Cheng\n
 In /NeurIPS, Poster, 2025/. \n
+[papers/NeurIPS25swe-sql.pdf Paper]
 [https://bird-interact.github.io/ BIRD-Interact]
 . *MoDiff - Graph Generation with Motif-aware Diffusion Model* \n
 Yuwei Xu, *Chenhao Ma\** \n
@@ -275,6 +281,7 @@ In /SIAM International Conference on Data Mining (SDM), pages 64-72, 2022/.\n
 . *The Social Technology and Research (STAR) Lab in the University of Hong Kong*\n
 Reynold Cheng, *Chenhao Ma*, Xiaodong Li, Yixiang Fang, Ye Liu, Victor Y.L. Wong, Esther Lee, Tai Hing Lam, Sai Yin Ho, Man Ping Wang, Weijie Gong, Wentao Ning, Ben Kao\n
 In /ACM SIGMOD Record, 51, 2022/.
+[papers/SIGMODrecord22star-lab.pdf Paper]
 ~~~
 
 ~~~
@@ -311,6 +318,7 @@ In /Proceedings of the 2020 ACM SIGMOD International Conference on Management of
 . *Motif Paths: A New Approach for Analysing Higher-order Semantics between Graph Nodes*\n
 Xiaodong Li, Tse Nam Chan, Reynold Cheng, Caihua Shan, *Chenhao Ma*, Kevin Chang\n
 In /HKU Technical Reports, 2019/.
+[papers/HKUTR19motif-paths.pdf Paper]
 . *LINC: A Motif Counting Algorithm for Uncertain Graphs*\n
 *Chenhao Ma*, Reynold Cheng, Laks V.S. Lakshmanan, Tobias Grubenmann, Yixiang Fang, Xiaodong Li\n
 In /Proceedings of the VLDB Endowment (PVLDB), 13(2): 155-168, 2019/.\n
