@@ -8,6 +8,9 @@
 . *Effective Structurally Similar Community Search in Large Temporal Graphs* \n
 Yue Zhang, Yingli Zhou, Fangyuan Zhang, Xiaolin Han, *Chenhao Ma\** \n
 In /ACM International Conference on Management of Data (SIGMOD), 2027/.\n
+. *Scalable Algorithm for Dynamic Quasi-clique Detection* \n
+Jingbang Chen, Weinuo Li, Yingli Zhou, Hao Wu, Can Wang, Yixiang Fang, *Chenhao Ma\** \n
+In /IEEE International Conference on Data Engineering (ICDE), 2027/. \n
 ~~~
 
 ~~~
@@ -20,6 +23,12 @@ In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
 Huizhong Wang, Yuanyuan Zeng, Kun Chen, Wei Dong, *Chenhao Ma\**\n
 In /ACM International Conference on Management of Data (SIGMOD), 2026/.\n
 [papers/SIGMOD26privhop.pdf Paper]
+. *CAPER: Clause-Aligned Process Supervision for Text-to-SQL* \n
+Lujie Ban, Jiasheng Shi, Jinyang Li, Xiaolin Han, Tsz Nam Chan, *Chenhao Ma\** \n
+In /NeurIPS, Poster, 2026/. \n
+. *BIRD-RL: Scaling Agentic Reinforcement Learning over Stateful Data-Centric Environments* \n
+Ge Qu, Jinyang Li, Xiaohan Xu, Xiaolong Li, Bowen Qin, Nan Huo, Ziwei Tang, *Chenhao Ma*, Reynold Cheng \n
+In /NeurIPS, Poster, 2026/. \n
 . *BIRD-Interact: Re-imagining Text-to-SQL Evaluation via Lens of Dynamic Interactions* \n
 Nan Huo, Xiaohan Xu, Jinyang Li, Per Jacobsson, Shipei Lin, Bowen Qin, Binyuan Hui, Xiaolong Li, Ge Qu, Shuzheng Si, Linheng Han, Edward Alexander, Xintong Zhu, Rui Qin, Ruihan Yu, Yiyao Jin, Feige Zhou, Weihao Zhong, Yun Chen, Hongyu Liu, *Chenhao Ma\**, Fatma Ozcan, Yannis Papakonstantinou, Reynold Cheng \n
 In /International Conference on Learning Representations (ICLR), Oral, 2026/. (1-1.5%) \n
